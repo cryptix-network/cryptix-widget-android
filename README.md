@@ -1,5 +1,7 @@
 # Cryptix-Widget Android
 
+Displays the current market price and hashrate. Updated every 15 minutes.
+
 1. Install the App
 2. Activate the Widget in your Home Screen
 To activate the Cryptix widget, long-press on an empty space on your home screen, select 'Widgets' from the menu, then find 'Cryptix Widget' in the list. Drag it onto your home screen and it will start showing the latest coin price and hashrate automatically.
